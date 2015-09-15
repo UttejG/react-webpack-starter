@@ -8,8 +8,8 @@ A basic no nonsense project setup to get started with React and Webpack
 ## Prerequisites
 
 Install the below programs
-  * ** Node ** v0.12.7
-  * ** npm ** 2.14.3
+  * **Node** v0.12.7
+  * **npm** 2.14.3
 
 ## Steps to get it to work
 
