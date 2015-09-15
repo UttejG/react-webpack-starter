@@ -3,7 +3,7 @@ A bare minimum project to get up and running with React, Webpack, ES6, Babel and
 
 ## Goal
 
-A basic no nonsense project setup to get started with React and Webpack
+To provide a no nonsense simple project for begineers to get started with React and Webpack
 
 ## Prerequisites
 
